@@ -22,3 +22,9 @@ py main.py
 ```
 
 ## Project Screenshot
+
+![image](https://github.com/Rajkumar0819/SnakeGame/assets/113299030/38656f79-7baa-4441-a498-4f32d04a2b7f)
+
+![image](https://github.com/Rajkumar0819/SnakeGame/assets/113299030/7934b93c-5f82-49e8-a961-c4f6ee0e49aa)
+
+
